@@ -127,4 +127,25 @@ placeholder {
 .midBottom,.startBottom,.endBottom {
   display: none;
 }
+.over-lay,.overlay-2,.overlay-3
+.overlay-4,.overlay-5.overlay-6,
+.overlay-7,.overlay-8 {
+  width: 85%;
+  height: 90%;
+  color:white;
+  display: none;
+  transition: all .6s ease;
+  display: flex;
+  position: relative;
+}
 
+
+.portfolio {
+  max-height: 100vh;
+}
+
+.row div {
+  height: 250px;
+  width: 290px;
+  background-position: center;
+}
