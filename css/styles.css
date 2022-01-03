@@ -57,3 +57,10 @@
   max-width: 100vw;
 }
 
+.services {
+  height: 64vh;
+  display: flex;
+  flex-direction: column;
+  
+}
+
