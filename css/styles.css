@@ -94,3 +94,19 @@
 
 }
 
+.contact {
+  max-height: 100vh;
+ 
+  text-align: center;
+}
+
+.info-input {
+  background-image: url(/assets/backgrounds/c_image.jpg);
+  max-height: 80vh;
+  background-position: center;
+  text-align: start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
