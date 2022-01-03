@@ -17,5 +17,13 @@
   justify-content: center;
   text-align: center;
   color: white;
+  font-family: 'Poppins', sans-serif;
   
+}
+
+.landing-text h2 {
+  font-size: 2.0em;
+  line-height: 2.0em;
+  font-weight:500 ;
+
 }
