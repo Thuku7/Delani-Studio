@@ -63,6 +63,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url(/assets/backgrounds/s_image.jpg);
+  background-position: center;
+  background-size: cover;
   
 }
 
