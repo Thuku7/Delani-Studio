@@ -9,5 +9,7 @@
   height: 100vh;
   max-width: 100vw;
   background-image: url(/assets/backgrounds/h_img.jpg);
+  background-position: center;
+  background-size: cover;
   
 }
