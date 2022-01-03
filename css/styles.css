@@ -149,3 +149,45 @@ placeholder {
   width: 290px;
   background-position: center;
 }
+
+.div1 {
+  position: relative;
+  background-position: url(/assets/portfolio/work1.jpg);
+}
+
+.div2 {
+  position: relative;
+  background-position: url(/assets/portfolio/work2.jpg);
+}
+
+.div3 {
+  position: relative;
+  background-position: url(/assets/portfolio/work3.jpg);
+}
+
+.div4 {
+  position: relative;
+  background-position: url(/assets/portfolio/work4.jpg);
+}
+
+.div5 {
+  position: relative;
+  background-position: url(/assets/portfolio/work5.jpg);
+}
+
+.div6 {
+  position: relative;
+  background-position: url(/assets/portfolio/work6.jpg);
+}
+
+.div7 {
+  position: relative;
+  background-position: url(/assets/portfolio/work7.jpg);
+}
+
+.div8 {
+  position: relative;
+  background-position: url(/assets/portfolio/work8.jpg);
+}
+
+
