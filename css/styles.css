@@ -38,3 +38,12 @@
 .landing-text p {
   font-size: 1.2em;
 }
+
+.aboutUs {
+  max-height: 39vh;
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+
