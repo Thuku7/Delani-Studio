@@ -55,4 +55,18 @@
   height: 63vh;
   background-position: center;
   background-size: cover;
+  color: white;
+}
+
+.bottom, .dev-bottom, .prod-bottom {
+  display: none;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.what-we-do {
+  height: 100vh;
 }
