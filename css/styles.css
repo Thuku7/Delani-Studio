@@ -35,3 +35,13 @@
 .landing-Page p {
   font-size: 1.0em;
 }
+
+.about-Us {
+  min-height: 37vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
