@@ -63,10 +63,20 @@
 }
 
 .container {
-  display: flex;
+  
   justify-content: space-evenly;
+  flex: 1;
+  display: flex;
+
 }
 
 .what-we-do {
   height: 100vh;
+  text-align: center;
+  display: flex;
+  
+}
+
+.portfolio {
+  height:100vh;
 }
