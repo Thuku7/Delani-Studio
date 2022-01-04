@@ -79,4 +79,46 @@
 
 .portfolio {
   height:100vh;
+  position: relative;
+}
+
+.row div {
+  height: 265px;
+  width: 290px;
+background-position: center;
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div1.col {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work1.jpg?raw=true);
+
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div2.col > div {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work2.jpg?raw=true);
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div3.col > div {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work3.jpg?raw=true);
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div4.col > div {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work4.jpg?raw=true);
+
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div5.col {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work5.jpg?raw=true);
+
+}
+body > section.What-we-do > div.portfolio > div > div > div > div.div6.col > div {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work6.jpg?raw=true);
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div7.col > div {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work7.jpg?raw=true);
+
+}
+
+body > section.What-we-do > div.portfolio > div > div > div > div.div8.col > div {
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/portfolio/work8.jpg?raw=true);
 }
