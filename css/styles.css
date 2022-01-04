@@ -6,3 +6,22 @@
   scroll-behavior: smooth;
 }
 
+.landing-Page {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/backgrounds/h_img.jpg?raw=true);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.mouse {
+  position:absolute;
+  bottom: 50px;
+}
