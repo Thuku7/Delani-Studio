@@ -9,7 +9,7 @@
 .landing-Page {
   height: 100vh;
   width: 100vw;
-  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/backgrounds/h_img.jpg?raw=true);
+  background-image: url(https://res.cloudinary.com/dpeaxhcl5/image/upload/v1641797257/h_img_xmlouv.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
@@ -51,7 +51,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(https://github.com/Thuku7/Delani-Studio-Week3-IP/blob/master/assets/backgrounds/s_image.jpg?raw=true);
+  background-image: url(https://res.cloudinary.com/dpeaxhcl5/image/upload/v1641797257/s_image_wbgcq3.jpg);
   height: 63vh;
   background-position: center;
   background-size: cover;
